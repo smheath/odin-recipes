@@ -1,0 +1,22 @@
+body {
+    background-color: darkslateblue;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 72px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+a {
+    color: white;
+}
